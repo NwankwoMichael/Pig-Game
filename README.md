@@ -24,7 +24,7 @@ A fun and interactive dice game for two players, built with HTML, CSS, and JavaS
 
 - ## 🔗 Live Demo
 
-[Try the Task Manager here](https://nwankwomichael.github.io/Pig-Game/)
+[Try the Pig-Game here](https://nwankwomichael.github.io/Pig-Game/)
 
   ```
 
